@@ -5,7 +5,7 @@ This is slide template for scientific presentations based on the well-known asse
 
 Feel free to download the keynote file and change it as you wish. Inspired on [this repository](https://github.com/hplgit/MAlley-slide-templates).
 
-![](screenshots/Screenshot%202025-11-02%20at%209.46.50%20PM.png)
+![Screenshot](screenshots/Screenshot%202025-11-02%20at%209.46.50%E2%80%AFPM.png)
 
 ## TODO
 
