@@ -7,6 +7,10 @@ Feel free to download the keynote file and change it as you wish. Inspired on [t
 
 ![Screenshot](screenshots/Screenshot%202025-11-02%20at%209.46.50%E2%80%AFPM.png)
 
+![Screenshot](screenshots/Screenshot%202025-11-02%20at%209.46.55%E2%80%AFPM.png)
+
+![Screenshot](screenshots/Screenshot%202025-11-02%20at%209.47.05%E2%80%AFPM.png)
+
 ## TODO
 
 - [ ] Google Slides template
